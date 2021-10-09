@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Fatih Karakelle.</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Design Patterns.**
+ 🌱 I’m currently learning **Design Patterns.**
 
-- 👨‍💻 All of my projects are available at [https://karakellef.com](https://karakellef.com)
+ 👨‍💻 All of my projects are available at [https://karakellef.com](https://karakellef.com)
 
-- 📝 I regularly write articles on [https://karakellef.com](https://karakellef.com)
+ 📝 I regularly write articles on [https://karakellef.com](https://karakellef.com)
 
-- 💬 Ask me about **anything.**
+ 💬 Ask me about **anything.**
 
-- 📫 How to reach me **info@karakellef.com**
+ 📫 How to reach me **info@karakellef.com**
 
-- 📄 Know about my experiences [https://karakellef.com](https://karakellef.com)
+ 📄 Know about my experiences [https://karakellef.com](https://karakellef.com)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
