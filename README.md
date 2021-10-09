@@ -12,9 +12,9 @@
  📫 How to reach me **info@karakellef.com**
 
  📄 Know about my experiences [https://karakellef.com](https://karakellef.com)
- 
+ <div align="center">
 ![Karakellef's GitHub stats](https://github-readme-stats.vercel.app/api?username=karakellef&show_icons=true&theme=react&count_private=true)
-
+</div>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karakellef&layout=compact&count_private=true&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
