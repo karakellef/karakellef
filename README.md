@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih Karakelle.</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Django, React and React-Native Developer</h3>
 
  🌱 I’m currently learning **Design Patterns.**
 
