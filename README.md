@@ -9,7 +9,7 @@
 
  💬 Ask me about **anything.**
 
- 📫 How to reach me **info@karakellef.com**
+ 📫 How to reach me **karakellefatih@gmail.com**
 
  📄 Know about my experiences [https://karakellef.com](https://karakellef.com)
 
