@@ -3,17 +3,16 @@
 
  🌱 I’m currently learning **Design Patterns.**
 
- 👨‍💻 All of my projects are available at [https://karakellef.com](https://karakellef.com)
+ 👨‍💻 All of my projects are available at [https://karakellef.github.io](https://karakellef.github.io)
 
- 📝 I regularly write articles on [https://karakellef.com](https://karakellef.com)
+ 📝 I regularly write articles on [https://karakellef.github.io](https://karakellef.github.io)
 
  💬 Ask me about **anything.**
 
  📫 How to reach me **karakellefatih@gmail.com**
 
- 📄 Know about my experiences [https://karakellef.com](https://karakellef.com)
-
-![Karakellef's GitHub stats](https://github-readme-stats.vercel.app/api?username=karakellef&show_icons=true&theme=react&hide=stars&count_private=true)
+ 📄 Know about my experiences [https://karakellef.github.io](https://karakellef.github.io)
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karakellef&layout=compact&theme=react&hide=html)
 
 
